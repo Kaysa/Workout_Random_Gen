@@ -1,17 +1,3 @@
-weighted = ("Overhead Presses",
-            "Plank Walkouts",
-            "Dumbbell Presses",
-            "Bicep Curls",
-            "Palms-up wrist curl",
-            "Palms-down Wrist Curls",
-            "Concentration curls",
-            "Triceps Kickback",
-            "Triceps Dip",
-            "Overhead Triceps Extension",
-            "Dumbbell Floor Press",
-            "Plank with Biceps Curl",
-            "Lying Overhead Triceps Extension")
-
 not_weighted = ( "Forearm Plank",
                  "Bird Dog Crunch",
                  "Bear Crawl",
@@ -40,6 +26,7 @@ not_weighted = ( "Forearm Plank",
                  "Forearm Side Plank With Twist",
                  "Scissor Switch",
                  "Warrior Balance",
+                 "Russian Twist",
                  "Boat Pose",
                  "Pilates 100"
                  )
