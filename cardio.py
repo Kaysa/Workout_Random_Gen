@@ -30,6 +30,5 @@ weighted = (
     "Jumping lunge"
 
 
-
             )
 
